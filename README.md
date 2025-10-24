@@ -7,13 +7,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kbafadriquela">
-    <img src="https://img.shields.io/github/followers/kbafadriquela?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://meowpress.dev">
-    <img src="https://img.shields.io/badge/Website-meowpress.dev-%23F28C28?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge">
-  </a>
+  <a href="https://github.com/kbafadriquela"><img src="https://img.shields.io/github/followers/kbafadriquela?label=Follow&style=social"></a>
+  <a href="https://meowpress.dev"><img src="https://img.shields.io/badge/Website-meowpress.dev-7aa2f7?style=flat&logo=google-chrome&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=kbafadriquela&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile views" />
 </p>
+
+---
+
+### ☕ About Me
+
+- 🧩 Freelancer at **Koffee Bytes Digital**  
+- 🌏 Based in the **Philippines**  
+- 💡 Passionate about **web performance** and **clean design**  
+- ✨ Believes in **“Less clutter, more clarity.”**  
+- 📚 Always learning new tools to improve workflow  
+
+> *“I build websites that don’t just look good — they feel effortless.”*
 
 ---
 
@@ -42,28 +51,25 @@
 
 ---
 
-### ☕ About Me
+### 🚀 Currently Focusing On
 
-- 🧩 Freelancer at **Koffee Bytes Digital**  
-- 🌏 Based in the **Philippines**  
-- 💡 Passionate about **web performance** and **clean design**  
-- ✨ Believes in **“Less clutter, more clarity.”**  
-- 📚 Always learning new tools to improve workflow
+Currently refining my front-end development craft — blending modern frameworks with WordPress customization to build smooth, responsive, and user-friendly digital experiences.  
+Exploring **React.js** to create component-based interfaces that enhance interactivity and performance.  
+Continuing to improve **site performance**, **UX design**, and **Elementor theme development**.
 
 ---
 
-### 🚀 Currently Focusing On
+### 💬 Quotes That Inspire Me
 
-Currently honing my **front-end development** skills by combining modern frameworks and WordPress customization to create clean, responsive, and user-centered web experiences.  
-Learning and experimenting with **React.js** to build component-based UIs that enhance interactivity and performance.  
-Exploring ways to improve **site performance**, **UX design**, and **Elementor-based theme development**.
+> *“Simplicity is the ultimate sophistication.”* — Leonardo da Vinci  
+> *“Design is not just what it looks like and feels like. Design is how it works.”* — Steve Jobs  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbafadriquela&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kbafadriquela&show_icons=true&theme=tokyonight" height="165">
 </p>
 
 ---
@@ -71,8 +77,8 @@ Exploring ways to improve **site performance**, **UX design**, and **Elementor-b
 ### 📈 Activity Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kbafadriquela&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbafadriquela&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com?user=kbafadriquela&theme=tokyonight&hide_border=true" height="165"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbafadriquela&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
@@ -88,15 +94,9 @@ Exploring ways to improve **site performance**, **UX design**, and **Elementor-b
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://meowpress.dev">
-    <img src="https://img.shields.io/badge/Website-meowpress.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:krizia.dev@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/kbafadriquela">
-    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://meowpress.dev"><img src="https://img.shields.io/badge/Website-meowpress.dev-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:krizia.dev@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-db4bff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kbafadriquela"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
