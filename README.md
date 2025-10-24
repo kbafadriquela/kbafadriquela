@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Krizia Bianca!
 
-<!--
-**kbafadriquela/kbafadriquela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End & WordPress Developer** with over 5 years of experience building clean, responsive, and user-friendly websites.  
+I specialize in **custom WordPress theme development**, **Elementor**, and **performance optimization**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, PHP  
+- **WordPress:** Custom Themes, Plugin Integration, ACF, Gutenberg  
+- **Tools:** Git, VS Code, Figma, Adobe XD  
+- **Frameworks:** Bootstrap, Tailwind CSS  
+- **Page Builders:** Elementor, Divi  
+
+---
+
+### 💼 Featured Projects
+
+- 🗺️ [Airport Codes PH](https://github.com/kbafadriquela/airport-codes-ph)
+- 🎨 [Mint – One Page Portfolio Theme](https://github.com/kbafadriquela/mint)  
+- 🖥️ [Portfolio UI – WordPress Theme](https://github.com/kbafadriquela/portfolio-ui)  
+
+---
+
+### ☕ About Me
+
+- 🧩 Freelancer at *Koffee Bytes Digital*  
+- 🌏 Based in the Philippines  
+- ✨ Passionate about crafting smooth and accessible user experiences  
+- 💡 Always exploring ways to improve workflow and web performance  
+
+---
+
+### 📊 GitHub Stats
+
+![Krizia's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbafadriquela&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 [meowpress.dev](https://meowpress.dev)  
+- 💌 [Email Me](mailto:krizia.dev@email.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kbafadriquela)  
+
+---
+
+⭐️ *Thanks for stopping by! Feel free to explore my repositories.*
