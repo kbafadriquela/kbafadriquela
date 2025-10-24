@@ -7,8 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kbafadriquela"><img src="https://img.shields.io/github/followers/kbafadriquela?label=Follow&style=social"></a>
-  <a href="https://meowpress.dev"><img src="https://img.shields.io/badge/Website-meowpress.dev-orange?style=flat&logo=google-chrome"></a>
+  <a href="https://github.com/kbafadriquela">
+    <img src="https://img.shields.io/github/followers/kbafadriquela?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://meowpress.dev">
+    <img src="https://img.shields.io/badge/Website-meowpress.dev-%23F28C28?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge">
+  </a>
 </p>
 
 ---
@@ -50,17 +54,16 @@
 
 ### 🚀 Currently Focusing On
 
-Currently honing my front-end development skills by combining modern frameworks and WordPress customization to create clean, responsive, and user-centered web experiences.  
+Currently honing my **front-end development** skills by combining modern frameworks and WordPress customization to create clean, responsive, and user-centered web experiences.  
 Learning and experimenting with **React.js** to build component-based UIs that enhance interactivity and performance.  
 Exploring ways to improve **site performance**, **UX design**, and **Elementor-based theme development**.
-
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbafadriquela&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=kbafadriquela&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
 </p>
 
 ---
@@ -68,8 +71,16 @@ Exploring ways to improve **site performance**, **UX design**, and **Elementor-b
 ### 📈 Activity Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kbafadriquela&theme=radical&hide_border=true" height="165"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbafadriquela&layout=compact&theme=radical" height="165">
+  <img src="https://streak-stats.demolab.com?user=kbafadriquela&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbafadriquela&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages">
+</p>
+
+---
+
+### 🟩 Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kbafadriquela&theme=tokyonight" alt="Krizia Bianca's GitHub Contribution Summary" width="800">
 </p>
 
 ---
@@ -77,9 +88,15 @@ Exploring ways to improve **site performance**, **UX design**, and **Elementor-b
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://meowpress.dev"><img src="https://img.shields.io/badge/Website-meowpress.dev-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:krizia.dev@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/kbafadriquela"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://meowpress.dev">
+    <img src="https://img.shields.io/badge/Website-meowpress.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:krizia.dev@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/kbafadriquela">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
